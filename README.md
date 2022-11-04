@@ -1,4 +1,7 @@
 ### LYX’s Github
+
+[![LYX's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyx0224)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on AJK.
 - 🌱 I’m currently learning Android.
 
