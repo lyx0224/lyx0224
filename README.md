@@ -4,9 +4,9 @@
 
 #### Wrote article on
 
-| 简书    |
-|-------|
-| [Click](https://www.jianshu.com/u/500fb620e2d5) |
+| 简书    | 公众号 | 掘金 |
+|-------|-------|-------|
+| [Click](https://www.jianshu.com/u/500fb620e2d5) | [Click](https://github.com/lyx0224/lyx0224/blob/main/img/qrcode_for_gh_35a8a8502b76_258.jpg)|[Click](https://juejin.cn/user/4318537402572621/posts) |
 
 #### 编程第一法则
 
