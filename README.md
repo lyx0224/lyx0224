@@ -10,6 +10,8 @@
 
 #### 编程第一法则
 
+> **当你的代码以某种莫名的方式跑起来了，请不要再动它了!**
+
 ![](https://img-blog.csdnimg.cn/b578d2f3e7414fb1a0cfe4e6d5a6a6b5.gif#pic_center)
 
 
